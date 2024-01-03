@@ -1,6 +1,6 @@
 # Decentralized.App-Blockchains
 
-**Planas 1: Paskaitos Saugojimas ir Žiūrėjimas**
+**Planas: Paskaitos Saugojimas ir Žiūrėjimas**
 
 **Dalyviai:**
 - Mokytojas (Pardavėjas)
