@@ -1,4 +1,4 @@
-**Paskaitos pardavimas**
+**Online mokymosi platforma**
 
 **Dalyviai:**
 - Mokytojas (Pardavėjas)
