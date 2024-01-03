@@ -1,23 +1,20 @@
-# Decentralized.App-Blockchains
-
-**Planas: Paskaitos Saugojimas ir Žiūrėjimas**
+**Paskaitos pardavimas**
 
 **Dalyviai:**
 - Mokytojas (Pardavėjas)
 - Studentas (Pirkėjas)
 
-**Verslo Logika:**
+**Verslo logika:**
 
-1. **Mokytojas Įkelia Užšifruotą Paskaitos Nuorodą:**
-   - Mokytojas (pardavėjas) įkelia užšifruotą nuorodą į paskaitą pardavimui į išmanųjį kontraktą.
-   - Nuo mokytojo reikalaujama nedidelė įkėlimo mokestis.
+1. **Mokytojas įkelia paskaitą:**
+   - Mokytojas įkelia nuorodą ir paskaitos informaciją (nuoroda turi būti sukurta su kita, off-chain kompanijos programa taip, kad tik sumokėję vartotojai gautų prieigą prie paskaitos).
 
-2. **Prieiga prie Užšifruotos Paskaitos Nuorodos:**
-   - Studentai gali peržiūrėti prieinamas paskaitas išmaniuoju kontraktu.
-   - Atlikus mokėjimo patvirtinimą, studentas gauna užšifruotą nuorodą, kuri yra saugoma blokų grandinėje.
+2. **Prieiga prie užšifruotos paskaitos nuorodos:**
+   - Studentai gali peržiūrėti prieinamas paskaitas.
+   - Studentas gali pirkti paskaitas, perkant reikalaujamas nedidelis aptarnavimo mokestis.
 
-3. **Prieiga prie Paskaitos Turinio:**
-   - Studentas naudoja kitą programą, galbūt dešifravimo įrankį, kad dešifruotų ir pasiektų įsigytą paskaitos turinį.
+3. **Prieiga prie paskaitos turinio:**
+   - Jeigu studentas turi pakankamai pinigų jo public ID siunčiamas į kitą programą, kad gautų prieigą prie paskatios.
 
 **Pastabos:**
-- Ši dalis koncentruojasi į paskaitų saugojimo procesą, leidžiant studentams pasiekti užšifruotas nuorodas ir naudojant kitą programą dešifravimui.
+- Ateityje būtų galima sujungti dvi programas ir leisti paskaitą įkelti ir peržiūrėti paskaitą toje pačioje programoje.
